@@ -9,7 +9,7 @@ Testovi su odrađeni u Visual studio C# NUNIT frameworku. Kako bi se testovi pok
  - Selenium Support
  - Nunit3 Test Adapter
  - Selenium WebDriver
- - 
+   
 Prilikom pravljenja novog TestCase-a i kopiranja generiranog koda u, potrebno je unutar TearDowna u try blocku dodati liniju koda driver.dispose() radi ispravnog pokretanja testa.
 
 TestCase 1:
